@@ -1,0 +1,2 @@
+# Fang currently only uses Python's standard library.
+# This file exists as a placeholder for future dependencies.
