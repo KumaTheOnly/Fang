@@ -1,0 +1,12 @@
+output/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+*:Zone.Identifier
+.env
+*.key
