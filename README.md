@@ -2,7 +2,7 @@
 
 Fang is a recon/orchestration tool that chains together nmap, httpx, feroxbuster, subfinder, nuclei, whatweb, and ffuf into a single automated pipeline — built for offensive security work and bug bounty recon.
 
-Made by yahyatahakazzi
+Made by Yahya Taha Kazzi
 
 ## What it does
 
